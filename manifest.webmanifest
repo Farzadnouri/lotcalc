@@ -1,0 +1,14 @@
+{
+  "name": "Vertex Algo Lot Calculator",
+  "short_name": "Vertex Lot",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1611",
+  "theme_color": "#0a1611",
+  "description": "Vertex Algo lot size calculator",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
